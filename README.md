@@ -1,10 +1,13 @@
-### Hi there 👋
+### 你好 👋，我是Rae👩🏻‍💻
+
+虽然 AI coding 给产品开发插上了翅膀  
+但是会手动写代码、懂编程思想才能判断代码的好坏  
+有好的审美才能做出好用又美观的产品  
+所以，keep learning💪
 
 <!--
 **rayyangcoding/rayyangcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🎓  Graduated from ... with a major in ...
+- 🌱  A fullstack coder in future  未来打算往全栈开发发展 
 -->
